@@ -36,14 +36,6 @@
     margin-top: none;
     display: flex;
 }
-.column {
-    display: flex;
-    flex-direction: row;
-}
-.air {
- margin: 0px;
-
-}
 body {
  background-color: rgb(114, 174, 243);
 }
@@ -55,5 +47,36 @@ display: flex;
 align-content: space-between;
 list-style: none;
 justify-content: space-around;
-
+}
+.knapp1 {
+    border-color: rgb(114, 174, 243); 
+    background-color: rgb(255, 255, 255);
+    padding-left: 142px;
+    padding-right: 142px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.knapp2 {
+    border-color: rgb(114, 174, 243); 
+    background-color: rgb(255, 255, 255);
+    padding-left: 142px;
+    padding-right: 142px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.knapp3 {
+    border-color: rgb(114, 174, 243); 
+    background-color: rgb(255, 255, 255);
+    padding-left: 142px;
+    padding-right: 142px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.knapp4 {
+    border-color: rgb(114, 174, 243); 
+    background-color: rgb(255, 255, 255);
+    padding-left: 142px;
+    padding-right: 142px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
