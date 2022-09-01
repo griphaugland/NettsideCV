@@ -1,60 +1,60 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 
 .Hovedtittel {
-    color: #023561;
-    text-align: center;
+  color: #023561;
+  text-align: center;
 }
 .subtittel {
-    color: #023561;
-    text-align: center;
+  color: #023561;
+  text-align: center;
 }
 .Brodtekst {
-    color: #023561;
-    text-align: center;
+  color: #023561;
+  text-align: center;
 }
 .container {
-    display: flex;
-    flex-direction: column;
-    width: 60%;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .header {
-    flex-direction: row;
-    width: fill;
-    height: auto;
-    color: #023561;
-    padding: 0px;
-    text-decoration: none;
-    font-size: 20px;
-    background-color: #023561;
-    margin-top: none;
-    display: flex;
+  flex-direction: row;
+  width: fill;
+  height: auto;
+  color: #023561;
+  padding: 0px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: #023561;
+  margin-top: none;
+  display: flex;
 }
 body {
-    background-color: #BDF2F2;
+  background-color: #bdf2f2;
 }
 .headermenu {
-    width: 100%;
-    height: 70px;
-    color: #023561;
-    flex-direction: row;
-    display: flex;
-    align-content: space-between;
-    list-style: none;
-    justify-content: space-around;
+  width: 100%;
+  height: 70px;
+  color: #023561;
+  flex-direction: row;
+  display: flex;
+  align-content: space-between;
+  list-style: none;
+  justify-content: space-around;
 }
 .knapp {
-    border-color: #BDF2F2; 
-    background-color: #023561;
-    color:#BDF2F2;
-    width:25vw;
-    height: 100%;
-    display: inline-block;
-
+  border-color: #bdf2f2;
+  background-color: #023561;
+  color: #bdf2f2;
+  width: 25vw;
+  height: 100%;
+  display: inline-block;
 }
